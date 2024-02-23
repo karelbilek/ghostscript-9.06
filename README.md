@@ -2,7 +2,7 @@ Ghostscript 9.06 was [released on August 8, 2012](https://code.google.com/archiv
 
 This is a copy of Ghostscript 9.06, the final GPL'ed Ghostscript.
 
-It has been lightly edited to silence warnings from modern compilers.
+It has been lightly edited to silence warnings from modern compilers, and then lightly edited more to be able to build with emscripten.
 
 To build:
 
